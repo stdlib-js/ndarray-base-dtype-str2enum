@@ -1,0 +1,36 @@
+{
+  "name": "@stdlib/ndarray-base-dtype-str2enum",
+  "version": "0.0.0",
+  "description": "Return the enumeration constant associated with an ndarray data type string.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/ndarray-base-dtype-str2enum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "types",
+    "ndarray",
+    "dtypes",
+    "dtype",
+    "data",
+    "multidimensional",
+    "array",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "enum"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
