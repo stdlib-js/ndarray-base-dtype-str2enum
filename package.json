@@ -37,12 +37,12 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/ndarray-dtypes": "^0.0.x"
+    "@stdlib/ndarray-dtypes": "^0.0.9"
   },
   "devDependencies": {
-    "@stdlib/assert-is-integer": "^0.0.x",
-    "@stdlib/bench": "^0.0.x",
-    "@stdlib/ndarray-base-dtype-enum2str": "^0.0.x",
+    "@stdlib/assert-is-integer": "^0.0.8",
+    "@stdlib/bench": "^0.0.12",
+    "@stdlib/ndarray-base-dtype-enum2str": "^0.0.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
@@ -80,7 +80,7 @@
   ],
   "__stdlib__": {},
   "funding": {
-    "type": "patreon",
-    "url": "https://www.patreon.com/athan"
+    "type": "opencollective",
+    "url": "https://opencollective.com/stdlib"
   }
 }
