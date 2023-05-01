@@ -37,7 +37,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/ndarray-dtypes": "^0.0.9"
+    "@stdlib/ndarray-dtypes": "^0.0.9",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.2"
   },
   "devDependencies": {
     "@stdlib/assert-is-integer": "^0.0.8",
