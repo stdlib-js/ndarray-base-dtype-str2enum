@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-str2enum@esm/index.mjs';
+import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-str2enum@v0.2.1-esm/index.mjs';
 ```
 
 #### str2enum( dtype )
@@ -101,7 +101,7 @@ var v = str2enum( 'beep' );
 <body>
 <script type="module">
 
-import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-str2enum@esm/index.mjs';
+import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-dtype-str2enum@v0.2.1-esm/index.mjs';
 
 var v = str2enum( 'float64' );
 // returns <number>
