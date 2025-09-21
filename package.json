@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/assert-is-number": "^0.2.2",
-    "@stdlib/ndarray-base-dtype-enums": "github:stdlib-js/ndarray-base-dtype-enums#main"
+    "@stdlib/ndarray-base-dtype-enums": "github:stdlib-js/ndarray-base-dtype-enums#main",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/assert-is-integer": "^0.2.2",
