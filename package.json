@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/assert-is-number": "^0.2.2",
-    "@stdlib/ndarray-base-dtype-enums": "github:stdlib-js/ndarray-base-dtype-enums#main"
+    "@stdlib/ndarray-base-dtype-enums": "^0.1.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-integer": "^0.2.2",
@@ -79,7 +79,6 @@
     "util",
     "enum"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
