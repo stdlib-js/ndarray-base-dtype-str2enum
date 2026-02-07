@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-dtype-str2enum",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Return the enumeration constant associated with an ndarray data type string.",
   "license": "Apache-2.0",
   "author": {
@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/assert-is-number": "^0.2.2",
-    "@stdlib/ndarray-base-dtype-enums": "^0.1.0"
+    "@stdlib/ndarray-base-dtype-enums": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-integer": "^0.2.2",
